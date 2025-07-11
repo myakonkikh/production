@@ -1,11 +1,11 @@
 # production
 
-Project Description
+OTUS ml production lesson
 
 Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone git@github.com:NickOsipov/production.git
+    git clone git@github.com:myakonkikh/production.git
     cd production
     ```
 2. Create a project:
